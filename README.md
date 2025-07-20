@@ -9,7 +9,7 @@ PII Hunter uses cutting-edge NLP and token classification to identify and annota
 
 ## 🚀 Try it Instantly
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdityaBhatt3010/PII_Tryy/blob/main/PII_Classification.ipynb)
 
 ---
 
